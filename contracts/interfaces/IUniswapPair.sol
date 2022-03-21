@@ -1,6 +1,3 @@
-
-
-// Router
 import "ipfs://QmbP6epUvsA26gkrYAmNTCUJQ7X5DEUQRbWTFGB7DBhHh8"; 
 
 /* contract Manager {
